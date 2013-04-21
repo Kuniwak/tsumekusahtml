@@ -1,7 +1,7 @@
 {
   "name": "tsumekusahtml",
   "version": "0.0.0",
-  "description": "This is a Teumsakua HTML publishers.",
+  "description": "This is a basic HTML publishers for Tsumekusa.",
   "main": "lib/index.js",
   "author": "OrgaChem <orga.chem.job@gmail.com>",
   "keywords": [
