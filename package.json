@@ -1,0 +1,33 @@
+{
+  "name": "tsumekusahtml",
+  "version": "0.0.0",
+  "description": "This is a Teumsakua HTML publishers.",
+  "main": "lib/index.js",
+  "author": "OrgaChem <orga.chem.job@gmail.com>",
+  "keywords": [
+    "tsumekusa",
+    "html"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OrgaChem/tsumekusahtml.git"
+  },
+  "bugs": {
+    "mail": "orga.chem.job@gmail.com",
+    "url": "https://github.com/OrgaChem/tsumekusahtml/issues"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "tsumekusa": "~2.0.0"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.8.0"
+  },
+  "license": "MIT"
+}
