@@ -1,6 +1,6 @@
 {
   "name": "tsumekusahtml",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "This is a basic HTML publishers for Tsumekusa.",
   "main": "lib/index.js",
   "author": "OrgaChem <orga.chem.job@gmail.com>",
